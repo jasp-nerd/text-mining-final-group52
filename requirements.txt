@@ -1,0 +1,7 @@
+spacy==3.7.*
+nltk
+scikit-learn
+transformers
+torch
+pandas
+jupyter
