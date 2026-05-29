@@ -2,6 +2,8 @@ spacy==3.7.*
 nltk
 scikit-learn
 transformers
+simpletransformers
 torch
 pandas
+matplotlib
 jupyter
