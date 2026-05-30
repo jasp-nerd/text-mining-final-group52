@@ -1,0 +1,8 @@
+sentence id	token id	sentence	token	gold tag	predicted tag
+1	2	All the New York University students love this diner in Soho so it makes for a fun young atmosphere .	the	O	B-ORG
+1	3	All the New York University students love this diner in Soho so it makes for a fun young atmosphere .	New	B-ORG	I-ORG
+6	21	My husband and I moved to Amsterdam 6 years ago and for as long as we have lived here , Blauwbrug has been our favorite place to eat !	Blauwbrug	B-ORG	B-MISC
+7	1	Dame Maggie Smith performed her role excellently , as she does in all her movies .	Dame	B-PER	O
+7	2	Dame Maggie Smith performed her role excellently , as she does in all her movies .	Maggie	I-PER	B-PER
+8	5	The new movie by Mr. Kruno was shot in New York , but the story takes place in Los Angeles .	Mr.	B-PER	O
+8	6	The new movie by Mr. Kruno was shot in New York , but the story takes place in Los Angeles .	Kruno	I-PER	B-PER
