@@ -6,4 +6,5 @@ simpletransformers
 torch
 pandas
 matplotlib
+seqeval
 jupyter
