@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# simpletransformers / huggingface artefacts from training
+notebooks/cache_dir/
+notebooks/outputs/
+notebooks/runs/
+notebooks/saved_topic_model/
+notebooks/saved_model/
+
+*.pdf
+poster/
